@@ -4,7 +4,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API built with Node.js and 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/your-repo.git
+1. Clone the repository: git clone https://github.com/sakibshadman19/crud-node.git
 
 2. Install dependencies: npm install
 
